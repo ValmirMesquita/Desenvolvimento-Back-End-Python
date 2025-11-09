@@ -29,8 +29,6 @@ https://fsymbols.com/letters/
   <a href="https://ouin.com.br" target="_blank">
     <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:5px;">
       🌐 Meu Portfólio
-      Valmir Linhares de Sousa de Mesquita
-
     </button>
   </a>
 </div>
