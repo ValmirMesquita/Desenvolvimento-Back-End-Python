@@ -24,3 +24,5 @@ for contador in range(0,100,2):
     #Ultilizar esta linha se caso queira contar comente os numeros impares
     #contador += 1 
     print(f"Valor atual: {contador}")
+
+    
